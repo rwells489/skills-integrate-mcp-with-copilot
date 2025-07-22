@@ -48,3 +48,6 @@ The application uses a simple data model with meaningful identifiers:
    - Grade level
 
 All data is stored in memory, which means data will be reset when the server restarts.
+# skills-integrate-mcp-with-copilot
+
+![Static Badge](https://img.shields.io/badge/example-static_badge-blue)
